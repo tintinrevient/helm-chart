@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  data-door-chart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-02-09T17:43:20.883303+01:00"
+    description: A Helm chart for Kubernetes
+    digest: 6c29d599ebd7aa8e3a4cc5a674bc6af6157abbcd751b33b75136cb6729f47d5d
+    name: data-door-chart
+    type: application
+    urls:
+    - https://tintinrevient.github.io/helm-chart/data-door-chart-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-02-09T17:43:20.882501+01:00"
